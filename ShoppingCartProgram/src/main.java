@@ -27,19 +27,7 @@ public class main {
         System.out.println("Your total is "+currency+ total);
 
 
-
-
-
-
         scanner.close();
-
-
-
-
-
-
-
-
 
 
     }
